@@ -1,10 +1,10 @@
 # LoginRegister Room Database
 
-This is the Login and Register by using Android Room Database.     
---Room Database.
---ViewModel
---LiveData
---SharedPreference
+This is the Login and Register by using Android Room Database.
+ * Room Database.
+ * ViewModel
+ * LiveData
+ * SharedPreference
 
 
 ## Demo
